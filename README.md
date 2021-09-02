@@ -1,1 +1,1 @@
-![Gametz Repository's Stats](https://github-readme-stats.vercel.app/api?username=Gametz&show_icons=true)
+![Gametz Repository's Stats](https://github-readme-stats.vercel.app/api?username=Gametz&show_icons=true&theme=radical)
